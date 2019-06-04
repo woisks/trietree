@@ -1,0 +1,17 @@
+{
+  "name": "woisks/trietree",
+  "description": "this trietree package ",
+  "authors": [
+    {
+      "name": "lifenglin",
+      "email": "woisks@126.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Woisks\\TrieTree\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "license": "MIT"
+}
